@@ -1,5 +1,5 @@
 //ATM Program
-print("Welcome to State bank of India")
+print("Welcome to State bank of India mr anilkumaar ")
 p=int(input("Enter your 4 digit pin number: "))
 m = 25000
 if(p == 1234):
