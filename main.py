@@ -12,7 +12,7 @@ w=int(input("Enter withdraw amount: "))
 if (w < m and w%100 == 0):
 print("Please take your amount:", w)
 else:
-print("Invalid cash")
+print("Invalid amount")
 
 elif(c==2):
 print("Your available amount : ",m)
